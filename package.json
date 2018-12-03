@@ -2,7 +2,7 @@
   "name": "t-plugin",
   "version": "1.0.0",
   "description": "",
-  "private":false, // 默认是true 私人的 需要改为false 不然发不上去 你可以试试.
+  "private":false,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
