@@ -1,0 +1,20 @@
+{
+  "name": "t-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "private":false, // 默认是true 私人的 需要改为false 不然发不上去 你可以试试.
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werbug/t-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werbug/t-plugin/issues"
+  },
+  "homepage": "https://github.com/werbug/t-plugin#readme"
+}
